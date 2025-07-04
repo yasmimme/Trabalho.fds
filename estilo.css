@@ -1,0 +1,22 @@
+    p {
+        color: #000000;
+        font-size: 16px;
+        line-height: 1.5;
+   
+    }
+h1 {
+    color: rgb(107, 31, 178);
+    text-align: center;
+    font-style: italic;
+  }
+h3 {
+    color: rgb(96, 39, 120); 
+    font-weight: bold; 
+    text-align: left; 
+    font-style: italic;
+  }
+  li {
+    list-style-type: square;
+  }
+
+
